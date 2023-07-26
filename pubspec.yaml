@@ -1,0 +1,13 @@
+name: leetcode
+description: LeetCode Dart solutions and data structures
+version: 0.0.1-dev
+repository: https://github.com/August79/Leetcode
+
+environment:
+  sdk: ^3.0.6
+
+dependencies:
+  meta: ^1.7.0
+
+dev_dependencies:
+  lints: ^2.0.0
