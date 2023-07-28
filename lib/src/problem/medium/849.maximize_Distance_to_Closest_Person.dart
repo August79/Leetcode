@@ -7,6 +7,7 @@ There is at least one empty seat, and at least one person sitting.
 Alex wants to sit in the seat such that the distance between him and the closest person to him is maximized. 
 Return that maximum distance to the closest person.
 
+
 Example 1:
 Input: seats = [1,0,0,0,1,0,1]
 Output: 2
